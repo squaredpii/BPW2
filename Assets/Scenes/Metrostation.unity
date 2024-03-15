@@ -1277,7 +1277,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (2)
@@ -5566,7 +5566,7 @@ PrefabInstance:
     - target: {fileID: 4321514657177891973, guid: 9890ceaaad9775a48a1e5db4adc56abe, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0e258f53dd0479d43ae94bfa932cd2ea, type: 2}
+      objectReference: {fileID: 2100000, guid: 784053206af3a1244bc78799641aeace, type: 2}
     - target: {fileID: 4356877828898064976, guid: 9890ceaaad9775a48a1e5db4adc56abe, type: 3}
       propertyPath: m_Layer
       value: 6
@@ -6411,6 +6411,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1879900250216117662, guid: 9890ceaaad9775a48a1e5db4adc56abe, type: 3}
+--- !u!114 &453584356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 453584350}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1bab5138418e9498a52bcacf9493bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dissolveDuration: 2
+  dissolveStrength: 0
 --- !u!1001 &458171920
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6489,7 +6503,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (9)
@@ -7560,7 +7574,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (4)
@@ -8642,7 +8656,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (7)
@@ -9861,7 +9875,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (6)
@@ -11120,7 +11134,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro
@@ -12466,6 +12480,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: hekjemetro (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: 70652d82e982b034e9ee2fcb04885006, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 70652d82e982b034e9ee2fcb04885006, type: 3}
 --- !u!4 &911228783 stripped
@@ -17559,7 +17577,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (8)
@@ -17867,7 +17885,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (5)
@@ -19481,7 +19499,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (11)
@@ -19765,7 +19783,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (3)
@@ -20618,7 +20636,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (1)
@@ -24044,7 +24062,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (10)
@@ -24497,8 +24515,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 348.0699, y: 97.25306, z: 38.586082}
-  m_Center: {x: 136.10712, y: 5.9388084, z: 18.793041}
+  m_Size: {x: 348.0699, y: 2.742176, z: 38.586082}
+  m_Center: {x: 136.10712, y: 53.194252, z: 18.793041}
 --- !u!4 &1867358994 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 71a78e90d742760498023253abc25c03, type: 3}
@@ -25559,6 +25577,7 @@ Transform:
   - {fileID: 1813783675}
   - {fileID: 1412904089}
   - {fileID: 1969547594}
+  - {fileID: 2040685226}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -25737,7 +25756,7 @@ PrefabInstance:
     - target: {fileID: -4683669308469848369, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e1c97ad3c29f05448bf2b192cd915656, type: 2}
+      objectReference: {fileID: 2100000, guid: af1e16d93a787fb4d8f814c3532a0649, type: 2}
     - target: {fileID: 919132149155446097, guid: 8a4a6c86e5dd1b2449b49cad8d20cdb9, type: 3}
       propertyPath: m_Name
       value: railmetro (12)
@@ -27775,6 +27794,103 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2911736426955009642, guid: 9890ceaaad9775a48a1e5db4adc56abe, type: 3}
+--- !u!1 &2040685225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2040685226}
+  - component: {fileID: 2040685229}
+  - component: {fileID: 2040685228}
+  - component: {fileID: 2040685227}
+  m_Layer: 0
+  m_Name: Cube (164)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2040685226
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2040685225}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -45.83, y: 10.74, z: 203.42}
+  m_LocalScale: {x: 19.35, y: 19.35, z: 55.728004}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1959323632}
+  m_RootOrder: 268
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2040685227
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2040685225}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &2040685228
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2040685225}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &2040685229
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2040685225}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &2045997661
 PrefabInstance:
   m_ObjectHideFlags: 0
