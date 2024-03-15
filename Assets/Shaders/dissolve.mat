@@ -8,13 +8,13 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: dissolve
-  m_Shader: {fileID: -6465566751694194690, guid: 05d729c887de45b42b8572cea2000262, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: b9ded8726a5b87a4b879e28f1d886dc0, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3000
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -88,6 +88,7 @@ Material:
     - _Cutoff_height: 1.88
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
+    - _Dissolvestrength: 0.33
     - _DstBlend: 0
     - _Edge_width: 0.5
     - _EnvironmentReflections: 1
