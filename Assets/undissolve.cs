@@ -6,6 +6,7 @@ public class undissolve : MonoBehaviour
 {
     public float dissolveDuration = 2;
     public float dissolveStrength;
+    public GameObject trigger;
 
 
     public void StartDissolver()
@@ -31,7 +32,7 @@ public class undissolve : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (trigger.GetComponent<BoxCollider>().enabled == false)
         {
             StartDissolver();
         }
